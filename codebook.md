@@ -15,6 +15,7 @@ When the script is run, the following steps are done:
 - The tidy data is saved in "tidydata.txt"
 
 Variables tidydata.txt ->
+
 In tidydata.txt, the following identifier variables are provided:
 
 - SubjectId : id of the subject
